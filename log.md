@@ -1,7 +1,7 @@
 # Day 1: Installing Python
 **Completion Date:** 
 
-**Learned:** 
+**Learned:** Installed Python & Anaconda.  Executed Hello World program.
 
 # Day 2: Printing in Python
 **Completion Date:** 
